@@ -8,3 +8,4 @@ User will be able to choose whether they want to add special characters, numeric
 ![Screenshot](Screen Shot 2020-10-17 at 8.29.33 PM.png)
 
 # URL of website
+https://hugo2211.github.io/Password-generator/

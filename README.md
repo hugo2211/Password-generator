@@ -6,3 +6,5 @@ User will be able to choose whether they want to add special characters, numeric
 
 # Screenshot of website
 <img scr="/Users/victormendizabal/Desktop/Screen Shot 2020-10-17 at 8.29.33 PM.png">
+
+# URL of website
